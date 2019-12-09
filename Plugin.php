@@ -6,7 +6,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  *
  * @package Nprogress
  * @author Cain
- * @version 1.0.0
+ * @version 1.1.1
  * @link https://github.com/Vndroid/Nprogress
  */
 class Nprogress_Plugin implements Typecho_Plugin_Interface
